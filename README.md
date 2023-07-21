@@ -74,6 +74,9 @@ python train_lnl.py \
     lnl.wnb_project=my_project \
     lnl.wnb_run='test run train_lnl.py'
 
+
+EXAMPLES LINE DELTE LATER
+
 # Use Hydra CLI overrides to change/add configs (see defaults in configs folder):
 python train_lnl.py \
     lnl.wnb_project=my_project \
